@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- DisCoRel Lexicon
-This lexicon lists all French discourse connectives in LEXCONN and their associated PDTB discourse relations. The format of this lexicon is similar to LEXCONN. Moreover, we used the same id as LEXCONN entries to help any comparison. For each connective, the frequency of the connectives in Europarl, different forms of the connective and a list of discourse relations with their probablity based on our analysis are added to DisCoRel. 
+<!-- ConcoLeDisCo Lexicon
+This lexicon lists all French discourse connectives in LEXCONN and their associated PDTB discourse relations. The format of this lexicon is similar to LEXCONN. Moreover, we used the same id as LEXCONN entries to help any comparison. For each connective, the frequency of the connectives in Europarl, different forms of the connective and a list of discourse relations with their probablity based on our analysis are added to ConcoLeDisCo. 
 -->
 <liste>
     <connecteur id="c31" relations="Temporal.Synchrony">
