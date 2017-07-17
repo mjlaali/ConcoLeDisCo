@@ -1,0 +1,15 @@
+ID,Rel,DC,Prob,Freq,judge,trans,transInSense
+1,condition,à défaut de,0.03,320,\checkmark,unless,if
+2,concession,cependant,0.01,21413,\checkmark,however,nonetheless
+3,condition,faute de,0.03,870,\checkmark,otherwise,if
+4,concession,malgré tout,0.05,1214,\checkmark,nevertheless,nonetheless
+5,concession,néanmoins,0.07,10309,\checkmark,however,nonetheless
+6,concession,nonobstant,0.02,185,\checkmark,however,although
+7,concession,quand même,0.03,1574,\checkmark,nevertheless,nonetheless
+8,concession,tout de même,0.02,1665,\checkmark,nevertheless,nonetheless
+9,concession,toutefois,0.01,28291,\checkmark,however,nonetheless
+10,condition,pour autant,0.05,1699,$\times$,however,if
+11,condition,sinon,0.03,2052,$\times$,otherwise,if
+12,concession,certes,0.01,5325,$\times$,however,although
+13,condition,lorsque,0.05,28507,$\times$,when,if
+14,condition,pour que,0.02,17469,$\times$,so that,if
