@@ -1,5 +1,5 @@
 # ConcoLeDisCo
-Concordia Lexicon of Discourse Connectives (ConcoLeDisCo) contains French discourse connectives associated to the PDTB relaions. This resource is automatically extracted from the English-French section of Europarl. For more deteila please refer to [our paper](https://arxiv.org/abs/1706.09856).
+Concordia Lexicon of Discourse Connectives (ConcoLeDisCo) contains French discourse connectives associated to PDTB relations. This resource was automatically extracted from the English-French section of Europarl. For more deteils please refer to [our paper](https://arxiv.org/abs/1706.09856).
 
 If you use this resource in your work, please cite [this paper](https://arxiv.org/abs/1706.09856):
 
